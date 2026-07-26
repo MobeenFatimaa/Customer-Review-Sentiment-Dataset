@@ -1,0 +1,107 @@
+{
+    "Electronics": [
+        "Bluetooth Speaker",
+        "Wireless Earbuds",
+        "Smart Watch",
+        "Tablet",
+        "Power Bank"
+    ],
+    "Mobile Phones": [
+        "Smartphone",
+        "Phone Charger",
+        "Phone Case",
+        "Wireless Charger",
+        "Screen Protector"
+    ],
+    "Laptops": [
+        "Gaming Laptop",
+        "Business Laptop",
+        "Ultrabook",
+        "Mechanical Keyboard",
+        "Wireless Mouse"
+    ],
+    "Restaurants": [
+        "Pizza",
+        "Burger",
+        "Pasta",
+        "Coffee",
+        "Sandwich"
+    ],
+    "Hotels": [
+        "Hotel Room",
+        "Breakfast",
+        "Swimming Pool",
+        "WiFi",
+        "Reception Service"
+    ],
+    "Movies": [
+        "Action Movie",
+        "Comedy Movie",
+        "Drama Movie",
+        "Horror Movie",
+        "Documentary"
+    ],
+    "Books": [
+        "Novel",
+        "Science Book",
+        "History Book",
+        "Biography",
+        "Comic Book"
+    ],
+    "Clothing": [
+        "T-Shirt",
+        "Jeans",
+        "Jacket",
+        "Sneakers",
+        "Hoodie"
+    ],
+    "Gaming": [
+        "Video Game",
+        "Gaming Console",
+        "Gaming Headset",
+        "Gaming Chair",
+        "Controller"
+    ],
+    "Software": [
+        "Mobile App",
+        "Desktop Software",
+        "Web Application",
+        "Antivirus",
+        "Photo Editor"
+    ],
+    "Healthcare": [
+        "Medical Service",
+        "Hospital Visit",
+        "Health Checkup",
+        "Medicine",
+        "Dental Service"
+    ],
+    "Airlines": [
+        "Flight",
+        "Business Class",
+        "Economy Seat",
+        "Airport Lounge",
+        "Baggage Service"
+    ],
+    "Banking": [
+        "Mobile Banking",
+        "Credit Card",
+        "Savings Account",
+        "Loan Service",
+        "ATM Service"
+    ],
+    "Education": [
+        "Online Course",
+        "University Course",
+        "Training Program",
+        "Workshop",
+        "Certification"
+    ],
+    "Grocery": [
+        "Fresh Vegetables",
+        "Milk",
+        "Rice",
+        "Cooking Oil",
+        "Snacks"
+    ]
+}

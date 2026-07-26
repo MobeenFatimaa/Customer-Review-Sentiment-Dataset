@@ -1,0 +1,25 @@
+{
+  "Positive": [
+    "Thank you for your wonderful feedback!",
+    "We're delighted that you enjoyed our product.",
+    "Thank you for choosing us.",
+    "We appreciate your positive review.",
+    "Your feedback means a lot to us."
+  ],
+
+  "Negative": [
+    "We're sorry about your experience.",
+    "Please contact our support team.",
+    "We appreciate your feedback and will improve.",
+    "Thank you for bringing this to our attention.",
+    "We apologize for the inconvenience."
+  ],
+
+  "Neutral": [
+    "Thank you for your feedback.",
+    "We appreciate your review.",
+    "Your opinion helps us improve.",
+    "Thank you for sharing your experience.",
+    "We value your comments."
+  ]
+}

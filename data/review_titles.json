@@ -1,0 +1,40 @@
+{
+  "Positive": [
+    "Excellent Product",
+    "Highly Recommended",
+    "Amazing Experience",
+    "Worth Every Penny",
+    "Five Stars",
+    "Exceeded Expectations",
+    "Very Impressed",
+    "Fantastic Purchase",
+    "Great Quality",
+    "Loved It"
+  ],
+
+  "Negative": [
+    "Very Disappointed",
+    "Not Worth It",
+    "Poor Experience",
+    "Waste of Money",
+    "Wouldn't Recommend",
+    "Terrible Purchase",
+    "Low Quality",
+    "Expected Better",
+    "Unsatisfied",
+    "One Star"
+  ],
+
+  "Neutral": [
+    "Average Experience",
+    "It's Okay",
+    "Nothing Special",
+    "Decent Product",
+    "Acceptable",
+    "Mixed Feelings",
+    "Fair Experience",
+    "Average Quality",
+    "Met Expectations",
+    "Reasonable Purchase"
+  ]
+}

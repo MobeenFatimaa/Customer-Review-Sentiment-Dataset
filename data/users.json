@@ -1,0 +1,17 @@
+{
+  "first_names": [
+    "James","John","Robert","Michael","William",
+    "David","Richard","Joseph","Thomas","Charles",
+    "Mary","Patricia","Jennifer","Linda","Elizabeth",
+    "Barbara","Susan","Jessica","Sarah","Karen",
+    "Ali","Ahmed","Fatima","Ayesha","Hassan",
+    "Noah","Emma","Olivia","Liam","Sophia"
+  ],
+
+  "last_names": [
+    "Smith","Johnson","Brown","Williams","Jones",
+    "Garcia","Miller","Davis","Wilson","Taylor",
+    "Anderson","Thomas","Jackson","White","Harris",
+    "Khan","Malik","Sheikh","Ahmed","Iqbal"
+  ]
+}

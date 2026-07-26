@@ -1,0 +1,38 @@
+{
+    "Positive": [
+        "Highly recommended.",
+        "Worth every penny.",
+        "I would definitely buy this again.",
+        "Excellent choice.",
+        "Five stars.",
+        "Very satisfied with my purchase.",
+        "I would recommend it to everyone.",
+        "Absolutely loved it.",
+        "One of the best purchases I've made.",
+        "Exceeded my expectations."
+    ],
+    "Negative": [
+        "Not recommended.",
+        "Waste of money.",
+        "I would never buy this again.",
+        "Very disappointed.",
+        "Save your money.",
+        "One star.",
+        "Completely dissatisfied.",
+        "Worst purchase ever.",
+        "I regret buying this.",
+        "Avoid this product."
+    ],
+    "Neutral": [
+        "It's okay.",
+        "Average experience.",
+        "Nothing special.",
+        "Meets basic expectations.",
+        "It gets the job done.",
+        "Neither good nor bad.",
+        "Acceptable for the price.",
+        "Could be better.",
+        "Works as expected.",
+        "Overall an average experience."
+    ]
+}

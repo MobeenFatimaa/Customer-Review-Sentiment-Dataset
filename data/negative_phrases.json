@@ -1,0 +1,12 @@
+[
+    "The {product} is {adjective}. {recommendation}",
+    "This {product} has {problem}. {recommendation}",
+    "I regret buying this {product}. {recommendation}",
+    "The quality is {adjective}. {recommendation}",
+    "Very disappointed with this {product}. {recommendation}",
+    "The {product} stopped working because {problem}. {recommendation}",
+    "This was a terrible purchase. {recommendation}",
+    "I expected much better from this {product}. {recommendation}",
+    "Completely dissatisfied with the {product}. {recommendation}",
+    "The {product} failed after a short time. {recommendation}"
+]

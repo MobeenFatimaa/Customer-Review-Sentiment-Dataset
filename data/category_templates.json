@@ -1,0 +1,583 @@
+{
+  "Electronics": {
+    "Positive": [
+      "The {product} has an {adjective} {aspect}. {recommendation}",
+      "I have been using this {product} for a while and the {aspect} is {adjective}. {recommendation}",
+      "This {product} exceeded my expectations because of its {aspect}. {recommendation}",
+      "The {aspect} of this {product} is {adjective}. {recommendation}",
+      "I am impressed with the {aspect} and overall quality of this {product}. {recommendation}",
+      "The {product} performs exceptionally well. The {aspect} is {adjective}. {recommendation}",
+      "Excellent build quality and {adjective} {aspect}. {recommendation}",
+      "This is one of the best {product} I have ever owned. The {aspect} is outstanding. {recommendation}",
+      "Everything from the design to the {aspect} feels premium. {recommendation}",
+      "The {product} offers excellent value for money and an {adjective} {aspect}. {recommendation}"
+    ],
+    "Negative": [
+      "The {product} has {problem}. The {aspect} is {adjective}. {recommendation}",
+      "I regret buying this {product}. The {aspect} is very disappointing. {recommendation}",
+      "The {product} stopped working because of {problem}. {recommendation}",
+      "The {aspect} is {adjective} and not worth the price. {recommendation}",
+      "Very disappointed with the {product}. {problem}. {recommendation}",
+      "I expected much better. The {aspect} is {adjective}. {recommendation}",
+      "The quality is poor and the {aspect} needs improvement. {recommendation}",
+      "This {product} failed to meet my expectations because of {problem}. {recommendation}",
+      "The {aspect} became worse after only a few days. {recommendation}",
+      "Overall, this {product} was a disappointing purchase. {recommendation}"
+    ],
+    "Neutral": [
+      "The {product} performs as expected. The {aspect} is average. {recommendation}",
+      "The {aspect} is acceptable for daily use. {recommendation}",
+      "Nothing particularly impressive about this {product}. {recommendation}",
+      "The {product} is decent and the {aspect} meets basic expectations. {recommendation}",
+      "Overall, the {product} is average. {recommendation}",
+      "The {aspect} is reasonable considering the price. {recommendation}",
+      "The {product} works fine but doesn't stand out. {recommendation}",
+      "The {aspect} could be better, but it is usable. {recommendation}",
+      "This {product} delivers average performance overall. {recommendation}",
+      "It is neither excellent nor disappointing. {recommendation}"
+    ]
+  },
+
+  "Mobile Phones": {
+    "Positive": [
+      "The {product} has an {adjective} {aspect}. {recommendation}",
+      "The battery lasts all day and the {aspect} is {adjective}. {recommendation}",
+      "The {product} feels premium and the {aspect} exceeded my expectations. {recommendation}",
+      "I love using this {product}. The {aspect} is fantastic. {recommendation}",
+      "The camera, display, and {aspect} make this phone an excellent choice. {recommendation}",
+      "Everything works smoothly and the {aspect} is {adjective}. {recommendation}",
+      "This is easily one of the best phones I've owned. {recommendation}",
+      "Excellent phone with an {adjective} {aspect}. {recommendation}",
+      "The {product} offers great performance and outstanding {aspect}. {recommendation}",
+      "Very happy with this purchase because the {aspect} is excellent. {recommendation}"
+    ],
+    "Negative": [
+      "The {product} suffers from {problem}. {recommendation}",
+      "The {aspect} is {adjective} and very frustrating. {recommendation}",
+      "The phone became unusable because of {problem}. {recommendation}",
+      "The {product} does not justify its price. {recommendation}",
+      "Very disappointed with the {aspect}. {recommendation}",
+      "The {aspect} is poor and the overall experience is disappointing. {recommendation}",
+      "I regret purchasing this phone because of {problem}. {recommendation}",
+      "The {product} failed after a short period of use. {recommendation}",
+      "Poor performance and a {adjective} {aspect}. {recommendation}",
+      "I expected much more from this device. {recommendation}"
+    ],
+    "Neutral": [
+      "The {product} is acceptable for everyday use. {recommendation}",
+      "The {aspect} is average and meets basic expectations. {recommendation}",
+      "The phone performs reasonably well. {recommendation}",
+      "Nothing exceptional about the {aspect}. {recommendation}",
+      "The {product} is okay for its price. {recommendation}",
+      "Overall, it provides an average user experience. {recommendation}",
+      "The {aspect} is decent but could be improved. {recommendation}",
+      "It works fine without offering anything special. {recommendation}",
+      "The phone delivers standard performance. {recommendation}",
+      "It is neither impressive nor disappointing. {recommendation}"
+    ]
+  },
+
+  "Laptops": {
+    "Positive": [
+      "The {product} has an {adjective} {aspect}. {recommendation}",
+      "I use this laptop every day and the {aspect} is outstanding. {recommendation}",
+      "The {product} is fast, reliable, and the {aspect} exceeded my expectations. {recommendation}",
+      "Excellent laptop with an {adjective} {aspect}. {recommendation}",
+      "The performance and {aspect} make this laptop a great investment. {recommendation}",
+      "Everything works perfectly and the {aspect} is excellent. {recommendation}",
+      "Very satisfied with the overall quality of this laptop. {recommendation}",
+      "The {product} handles heavy workloads effortlessly. {recommendation}",
+      "Fantastic laptop with premium build quality and an excellent {aspect}. {recommendation}",
+      "The {aspect} makes working on this laptop enjoyable. {recommendation}"
+    ],
+    "Negative": [
+      "The {product} has {problem}. {recommendation}",
+      "The {aspect} is {adjective} and below expectations. {recommendation}",
+      "Very disappointed with the laptop because of {problem}. {recommendation}",
+      "The laptop frequently experiences {problem}. {recommendation}",
+      "The {aspect} is poor and affects daily work. {recommendation}",
+      "This laptop is not worth the money. {recommendation}",
+      "The {product} failed after only a short period. {recommendation}",
+      "The overall quality is disappointing because of the {aspect}. {recommendation}",
+      "The {aspect} became worse over time. {recommendation}",
+      "I regret purchasing this laptop. {recommendation}"
+    ],
+    "Neutral": [
+      "The {product} performs as expected. {recommendation}",
+      "The {aspect} is average for this price range. {recommendation}",
+      "The laptop is decent for basic tasks. {recommendation}",
+      "Nothing remarkable about the {aspect}. {recommendation}",
+      "The overall performance is acceptable. {recommendation}",
+      "The {aspect} meets basic expectations. {recommendation}",
+      "It is suitable for everyday use. {recommendation}",
+      "The laptop provides a standard computing experience. {recommendation}",
+      "The {aspect} is satisfactory but not outstanding. {recommendation}",
+      "Overall, it is an average laptop. {recommendation}"
+    ]
+  },
+
+    "Restaurants": {
+    "Positive": [
+      "The {product} was {adjective} and the {aspect} exceeded my expectations. {recommendation}",
+      "I really enjoyed the {product}. The {aspect} was outstanding. {recommendation}",
+      "The food tasted amazing and the {aspect} was excellent. {recommendation}",
+      "Everything was fresh and the {aspect} made the experience memorable. {recommendation}",
+      "The restaurant served one of the best {product} I've ever had. {recommendation}",
+      "Excellent food, friendly staff, and an outstanding {aspect}. {recommendation}",
+      "The {product} was cooked perfectly. {recommendation}",
+      "The restaurant impressed me with its {aspect}. {recommendation}",
+      "Great dining experience because of the excellent {aspect}. {recommendation}",
+      "I will definitely come back for the {product}. {recommendation}"
+    ],
+    "Negative": [
+      "The {product} had {problem}. {recommendation}",
+      "The {aspect} was {adjective} and ruined the meal. {recommendation}",
+      "The food arrived late and the {aspect} was disappointing. {recommendation}",
+      "Very poor dining experience because of the {aspect}. {recommendation}",
+      "The {product} wasn't worth the price. {recommendation}",
+      "The service was slow and the {aspect} was poor. {recommendation}",
+      "The restaurant failed to meet my expectations. {recommendation}",
+      "Everything about the {aspect} was disappointing. {recommendation}",
+      "The meal was ruined because of {problem}. {recommendation}",
+      "I would not visit this restaurant again. {recommendation}"
+    ],
+    "Neutral": [
+      "The {product} was average. {recommendation}",
+      "The {aspect} met basic expectations. {recommendation}",
+      "Nothing special about the restaurant. {recommendation}",
+      "The food was acceptable but not memorable. {recommendation}",
+      "Overall, the dining experience was average. {recommendation}",
+      "The {aspect} was reasonable considering the price. {recommendation}",
+      "The meal was decent and filling. {recommendation}",
+      "Everything was okay without being exceptional. {recommendation}",
+      "The restaurant offers average quality food. {recommendation}",
+      "It was a standard dining experience. {recommendation}"
+    ]
+  },
+
+  "Hotels": {
+    "Positive": [
+      "The {aspect} was {adjective} and made our stay enjoyable. {recommendation}",
+      "The {product} was clean, comfortable, and exceeded expectations. {recommendation}",
+      "Excellent hospitality and outstanding {aspect}. {recommendation}",
+      "The hotel staff were extremely helpful. {recommendation}",
+      "Everything from check-in to checkout was smooth. {recommendation}",
+      "The room was spotless and the {aspect} was excellent. {recommendation}",
+      "The hotel offers great value for money. {recommendation}",
+      "I loved the peaceful atmosphere and excellent {aspect}. {recommendation}",
+      "The location was perfect and the {aspect} impressed me. {recommendation}",
+      "One of the best hotel experiences I've had. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} was {adjective}. {recommendation}",
+      "Our stay was disappointing because of {problem}. {recommendation}",
+      "The {product} was not clean and the {aspect} was poor. {recommendation}",
+      "The hotel failed to meet expectations. {recommendation}",
+      "The room was uncomfortable and the {aspect} was disappointing. {recommendation}",
+      "The staff were unhelpful and the {aspect} was poor. {recommendation}",
+      "The hotel wasn't worth the money. {recommendation}",
+      "Very poor experience because of {problem}. {recommendation}",
+      "I expected much better service. {recommendation}",
+      "I wouldn't stay here again. {recommendation}"
+    ],
+    "Neutral": [
+      "The hotel stay was average. {recommendation}",
+      "The {aspect} met basic expectations. {recommendation}",
+      "The room was acceptable for the price. {recommendation}",
+      "Nothing particularly impressive about the hotel. {recommendation}",
+      "The overall experience was decent. {recommendation}",
+      "The hotel was okay for a short stay. {recommendation}",
+      "Everything worked as expected. {recommendation}",
+      "The {aspect} could be improved. {recommendation}",
+      "Average facilities and average service. {recommendation}",
+      "Overall, it was an ordinary hotel experience. {recommendation}"
+    ]
+  },
+
+  "Grocery": {
+    "Positive": [
+      "The {product} was fresh and the {aspect} was excellent. {recommendation}",
+      "Very happy with the quality of this {product}. {recommendation}",
+      "The {aspect} exceeded my expectations. {recommendation}",
+      "Excellent grocery item with outstanding freshness. {recommendation}",
+      "The packaging and {aspect} were impressive. {recommendation}",
+      "I will definitely purchase this again. {recommendation}",
+      "The {product} offered great value for money. {recommendation}",
+      "Everything was fresh and well packaged. {recommendation}",
+      "The quality was excellent and the {aspect} stood out. {recommendation}",
+      "Highly satisfied with this grocery purchase. {recommendation}"
+    ],
+    "Negative": [
+      "The {product} had {problem}. {recommendation}",
+      "The {aspect} was {adjective}. {recommendation}",
+      "The product wasn't fresh and was disappointing. {recommendation}",
+      "Poor packaging ruined the experience. {recommendation}",
+      "The grocery item wasn't worth buying. {recommendation}",
+      "Very disappointed because of {problem}. {recommendation}",
+      "The quality was below expectations. {recommendation}",
+      "The {aspect} needs significant improvement. {recommendation}",
+      "I wouldn't purchase this again. {recommendation}",
+      "Overall, it was a poor grocery product. {recommendation}"
+    ],
+    "Neutral": [
+      "The {product} was acceptable. {recommendation}",
+      "The {aspect} was average. {recommendation}",
+      "Nothing special about this grocery item. {recommendation}",
+      "The quality met basic expectations. {recommendation}",
+      "Overall, it was an average purchase. {recommendation}",
+      "The product was okay for the price. {recommendation}",
+      "Everything was fairly standard. {recommendation}",
+      "The {aspect} could be better. {recommendation}",
+      "It was a decent grocery product. {recommendation}",
+      "Neither impressive nor disappointing. {recommendation}"
+    ]
+  },
+    "Books": {
+    "Positive": [
+      "The {aspect} of this {product} is {adjective}. {recommendation}",
+      "I couldn't put this {product} down because the {aspect} was outstanding. {recommendation}",
+      "The author did an amazing job with the {aspect}. {recommendation}",
+      "Every chapter kept me engaged and the {aspect} exceeded my expectations. {recommendation}",
+      "This is one of the best books I've read this year. {recommendation}",
+      "The {aspect} made this book truly memorable. {recommendation}",
+      "I loved every page of this {product}. {recommendation}",
+      "The writing style and {aspect} were exceptional. {recommendation}",
+      "A fantastic read with excellent {aspect}. {recommendation}",
+      "I highly recommend this book to anyone who enjoys reading. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} was {adjective}. {recommendation}",
+      "I struggled to finish this {product} because of {problem}. {recommendation}",
+      "The story became boring halfway through. {recommendation}",
+      "The {aspect} failed to keep my interest. {recommendation}",
+      "Very disappointed with this book. {recommendation}",
+      "The ending ruined the entire experience. {recommendation}",
+      "I expected much more from this author. {recommendation}",
+      "The {aspect} was weak and poorly developed. {recommendation}",
+      "This book did not meet my expectations. {recommendation}",
+      "Overall, reading this book felt like a waste of time. {recommendation}"
+    ],
+    "Neutral": [
+      "The {product} was average. {recommendation}",
+      "The {aspect} was acceptable but not exceptional. {recommendation}",
+      "Overall, this was a decent read. {recommendation}",
+      "The book had both strengths and weaknesses. {recommendation}",
+      "Nothing particularly memorable about this book. {recommendation}",
+      "The story was okay but lacked excitement. {recommendation}",
+      "The {aspect} met basic expectations. {recommendation}",
+      "It was an average reading experience. {recommendation}",
+      "The content was informative but ordinary. {recommendation}",
+      "Overall, I neither loved nor disliked this book. {recommendation}"
+    ]
+  },
+
+  "Movies": {
+    "Positive": [
+      "The {aspect} was {adjective}. {recommendation}",
+      "The movie exceeded my expectations with its {aspect}. {recommendation}",
+      "The acting and storyline were fantastic. {recommendation}",
+      "I enjoyed every minute of this movie. {recommendation}",
+      "The visual effects and {aspect} were incredible. {recommendation}",
+      "This movie kept me entertained from beginning to end. {recommendation}",
+      "The {aspect} made this film unforgettable. {recommendation}",
+      "Definitely one of the best movies I've watched recently. {recommendation}",
+      "Everything about this movie felt well crafted. {recommendation}",
+      "I would happily watch it again. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} was {adjective}. {recommendation}",
+      "The movie suffered from {problem}. {recommendation}",
+      "The storyline became confusing and boring. {recommendation}",
+      "The acting failed to impress me. {recommendation}",
+      "I expected a much better film. {recommendation}",
+      "The ending was disappointing. {recommendation}",
+      "The pacing made the movie difficult to enjoy. {recommendation}",
+      "Overall, the movie failed to entertain me. {recommendation}",
+      "This film was not worth watching. {recommendation}",
+      "I wouldn't recommend this movie. {recommendation}"
+    ],
+    "Neutral": [
+      "The movie was average. {recommendation}",
+      "The {aspect} met basic expectations. {recommendation}",
+      "Overall, it was an okay film. {recommendation}",
+      "Some scenes were enjoyable while others were forgettable. {recommendation}",
+      "The movie had decent entertainment value. {recommendation}",
+      "The acting was acceptable. {recommendation}",
+      "Nothing particularly outstanding about this film. {recommendation}",
+      "The story was predictable but watchable. {recommendation}",
+      "It was a fairly average movie experience. {recommendation}",
+      "Overall, I found it acceptable. {recommendation}"
+    ]
+  },
+
+  "Gaming": {
+    "Positive": [
+      "The {aspect} is {adjective}. {recommendation}",
+      "I've spent many hours playing this game and loved every minute. {recommendation}",
+      "The gameplay and graphics exceeded my expectations. {recommendation}",
+      "This game offers an amazing experience. {recommendation}",
+      "The controls are smooth and the {aspect} is outstanding. {recommendation}",
+      "One of the best games I've played recently. {recommendation}",
+      "The developers did an excellent job with the {aspect}. {recommendation}",
+      "The game is addictive in the best possible way. {recommendation}",
+      "Fantastic gameplay with excellent performance. {recommendation}",
+      "Highly recommended for every gamer. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} is {adjective}. {recommendation}",
+      "The game suffers from {problem}. {recommendation}",
+      "I experienced constant bugs while playing. {recommendation}",
+      "The controls were frustrating and unresponsive. {recommendation}",
+      "Very disappointing gaming experience. {recommendation}",
+      "The game crashed several times. {recommendation}",
+      "The gameplay became repetitive after a short time. {recommendation}",
+      "I expected much better graphics and performance. {recommendation}",
+      "This game was not enjoyable. {recommendation}",
+      "Overall, I regret purchasing this game. {recommendation}"
+    ],
+    "Neutral": [
+      "The game is average. {recommendation}",
+      "The {aspect} is acceptable. {recommendation}",
+      "It provides a decent gaming experience. {recommendation}",
+      "The gameplay is okay but nothing exceptional. {recommendation}",
+      "The graphics are average for today's standards. {recommendation}",
+      "The game has both strengths and weaknesses. {recommendation}",
+      "Overall, it's a decent title. {recommendation}",
+      "The performance is satisfactory. {recommendation}",
+      "It was enjoyable in parts but not outstanding. {recommendation}",
+      "Overall, the game met my expectations. {recommendation}"
+    ]
+  },
+    "Software": {
+    "Positive": [
+      "The {product} has an {adjective} {aspect}. {recommendation}",
+      "The software is easy to use and the {aspect} exceeded my expectations. {recommendation}",
+      "Installation was quick and the {aspect} is excellent. {recommendation}",
+      "The interface is intuitive and the {aspect} works perfectly. {recommendation}",
+      "This software has improved my productivity significantly. {recommendation}",
+      "I use this software every day and the {aspect} is outstanding. {recommendation}",
+      "Everything runs smoothly and the {aspect} is impressive. {recommendation}",
+      "This is one of the best software products I've used. {recommendation}",
+      "The developers did a fantastic job with the {aspect}. {recommendation}",
+      "Overall, this software delivers excellent performance. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} is {adjective}. {recommendation}",
+      "The software suffers from {problem}. {recommendation}",
+      "Installation was frustrating because of {problem}. {recommendation}",
+      "The interface is confusing and the {aspect} needs improvement. {recommendation}",
+      "The software crashes frequently. {recommendation}",
+      "Performance is disappointing and the {aspect} is poor. {recommendation}",
+      "I expected much better from this software. {recommendation}",
+      "The updates introduced more problems than improvements. {recommendation}",
+      "The software failed to meet my expectations. {recommendation}",
+      "Overall, this software was disappointing. {recommendation}"
+    ],
+    "Neutral": [
+      "The software performs as expected. {recommendation}",
+      "The {aspect} is average. {recommendation}",
+      "Nothing particularly impressive about this software. {recommendation}",
+      "It works well enough for basic tasks. {recommendation}",
+      "The overall experience is acceptable. {recommendation}",
+      "The interface is decent but could be improved. {recommendation}",
+      "The {aspect} meets basic expectations. {recommendation}",
+      "Overall, it's a reasonable software solution. {recommendation}",
+      "The software is functional but not exceptional. {recommendation}",
+      "It gets the job done. {recommendation}"
+    ]
+  },
+
+  "Banking": {
+    "Positive": [
+      "The {aspect} is {adjective}. {recommendation}",
+      "The banking service exceeded my expectations. {recommendation}",
+      "Transactions are fast and secure. {recommendation}",
+      "The mobile app is smooth and easy to use. {recommendation}",
+      "Customer support resolved my issue quickly. {recommendation}",
+      "Everything from opening an account to daily banking is simple. {recommendation}",
+      "The bank provides excellent service and reliable {aspect}. {recommendation}",
+      "I'm very satisfied with this banking experience. {recommendation}",
+      "The digital banking features are outstanding. {recommendation}",
+      "Highly recommended for anyone looking for a reliable bank. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} is {adjective}. {recommendation}",
+      "The bank has {problem}. {recommendation}",
+      "Customer service was slow and unhelpful. {recommendation}",
+      "Transactions often take longer than expected. {recommendation}",
+      "The mobile app crashes frequently. {recommendation}",
+      "Hidden fees made the experience frustrating. {recommendation}",
+      "I expected much better banking services. {recommendation}",
+      "The account setup process was complicated. {recommendation}",
+      "Overall, I'm disappointed with this bank. {recommendation}",
+      "I wouldn't recommend this banking service. {recommendation}"
+    ],
+    "Neutral": [
+      "The banking service is average. {recommendation}",
+      "The {aspect} meets basic expectations. {recommendation}",
+      "Everything works as expected. {recommendation}",
+      "The mobile app is decent. {recommendation}",
+      "Customer service is acceptable. {recommendation}",
+      "Nothing particularly impressive about this bank. {recommendation}",
+      "The overall banking experience is average. {recommendation}",
+      "The service is satisfactory. {recommendation}",
+      "It's a reasonable option for everyday banking. {recommendation}",
+      "Overall, it's acceptable. {recommendation}"
+    ]
+  },
+
+  "Healthcare": {
+    "Positive": [
+      "The {aspect} was {adjective}. {recommendation}",
+      "The doctor was professional and attentive. {recommendation}",
+      "The medical staff provided excellent care. {recommendation}",
+      "The appointment process was smooth and efficient. {recommendation}",
+      "The hospital was clean and well organized. {recommendation}",
+      "I felt comfortable throughout my visit. {recommendation}",
+      "The treatment exceeded my expectations. {recommendation}",
+      "The staff explained everything clearly. {recommendation}",
+      "Overall, I had a very positive healthcare experience. {recommendation}",
+      "I highly recommend this healthcare provider. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} was {adjective}. {recommendation}",
+      "The clinic experienced {problem}. {recommendation}",
+      "Waiting times were far too long. {recommendation}",
+      "The staff were not very helpful. {recommendation}",
+      "Communication could have been much better. {recommendation}",
+      "The appointment process was frustrating. {recommendation}",
+      "I expected better patient care. {recommendation}",
+      "Overall, I was disappointed with my experience. {recommendation}",
+      "The facility needs significant improvement. {recommendation}",
+      "I wouldn't choose this provider again. {recommendation}"
+    ],
+    "Neutral": [
+      "The healthcare service was average. {recommendation}",
+      "The {aspect} met my expectations. {recommendation}",
+      "The visit was neither good nor bad. {recommendation}",
+      "The treatment was satisfactory. {recommendation}",
+      "The staff were professional enough. {recommendation}",
+      "Everything went according to plan. {recommendation}",
+      "The facility was acceptable. {recommendation}",
+      "Overall, the experience was ordinary. {recommendation}",
+      "The service could be improved. {recommendation}",
+      "It was an average healthcare visit. {recommendation}"
+    ]
+  },
+  "Education": {
+    "Positive": [
+      "The {aspect} is {adjective}. {recommendation}",
+      "This {product} exceeded my expectations. {recommendation}",
+      "The instructor explained every concept clearly. {recommendation}",
+      "The course content was practical and engaging. {recommendation}",
+      "I learned many valuable skills from this course. {recommendation}",
+      "The assignments improved my understanding. {recommendation}",
+      "Excellent learning experience with outstanding {aspect}. {recommendation}",
+      "The learning platform was easy to use. {recommendation}",
+      "I would definitely recommend this course to others. {recommendation}",
+      "Overall, this was one of the best educational experiences I've had. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} was {adjective}. {recommendation}",
+      "The course suffered from {problem}. {recommendation}",
+      "The instructor was difficult to understand. {recommendation}",
+      "The learning material was outdated. {recommendation}",
+      "The assignments were confusing. {recommendation}",
+      "The course did not meet my expectations. {recommendation}",
+      "The platform experienced frequent technical issues. {recommendation}",
+      "Very disappointed with the quality of this course. {recommendation}",
+      "I expected much better educational content. {recommendation}",
+      "Overall, this course was not worth my time. {recommendation}"
+    ],
+    "Neutral": [
+      "The course was average. {recommendation}",
+      "The {aspect} met my expectations. {recommendation}",
+      "The learning experience was acceptable. {recommendation}",
+      "Nothing particularly impressive about the course. {recommendation}",
+      "The instructor explained the topics adequately. {recommendation}",
+      "The platform worked reasonably well. {recommendation}",
+      "The content was useful but fairly basic. {recommendation}",
+      "Overall, it was an average course. {recommendation}",
+      "The assignments were manageable. {recommendation}",
+      "It was a decent learning experience. {recommendation}"
+    ]
+  },
+
+  "Airlines": {
+    "Positive": [
+      "The {aspect} was {adjective}. {recommendation}",
+      "The flight departed on time and everything went smoothly. {recommendation}",
+      "The cabin crew were friendly and professional. {recommendation}",
+      "The seats were comfortable and the service was excellent. {recommendation}",
+      "The check-in process was quick and efficient. {recommendation}",
+      "I had a pleasant journey with this airline. {recommendation}",
+      "The in-flight service exceeded my expectations. {recommendation}",
+      "Excellent airline with outstanding customer service. {recommendation}",
+      "The overall travel experience was enjoyable. {recommendation}",
+      "I would happily fly with this airline again. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} was {adjective}. {recommendation}",
+      "The flight experienced {problem}. {recommendation}",
+      "The flight was delayed for several hours. {recommendation}",
+      "The baggage handling was disappointing. {recommendation}",
+      "The cabin crew were not very helpful. {recommendation}",
+      "The seats were uncomfortable throughout the flight. {recommendation}",
+      "The airline failed to meet my expectations. {recommendation}",
+      "Very disappointing travel experience. {recommendation}",
+      "I expected much better service. {recommendation}",
+      "I wouldn't choose this airline again. {recommendation}"
+    ],
+    "Neutral": [
+      "The flight was average. {recommendation}",
+      "The {aspect} met basic expectations. {recommendation}",
+      "The journey was neither good nor bad. {recommendation}",
+      "Everything went as expected. {recommendation}",
+      "The service was acceptable. {recommendation}",
+      "The airline provided a standard travel experience. {recommendation}",
+      "Nothing particularly memorable about the flight. {recommendation}",
+      "The overall journey was satisfactory. {recommendation}",
+      "The flight was comfortable enough. {recommendation}",
+      "Overall, it was an average flight. {recommendation}"
+    ]
+  },
+
+  "Clothing": {
+    "Positive": [
+      "The {product} has an {adjective} {aspect}. {recommendation}",
+      "The fabric feels soft and comfortable. {recommendation}",
+      "The fitting is perfect and the {aspect} exceeded my expectations. {recommendation}",
+      "The quality of this clothing item is excellent. {recommendation}",
+      "I love the design and overall appearance. {recommendation}",
+      "The material feels premium and durable. {recommendation}",
+      "This outfit offers excellent value for money. {recommendation}",
+      "The stitching and finish are impressive. {recommendation}",
+      "I'm extremely satisfied with this purchase. {recommendation}",
+      "I would definitely buy this clothing item again. {recommendation}"
+    ],
+    "Negative": [
+      "The {aspect} is {adjective}. {recommendation}",
+      "The clothing item had {problem}. {recommendation}",
+      "The material feels cheap and uncomfortable. {recommendation}",
+      "The size was inaccurate and didn't fit properly. {recommendation}",
+      "The stitching started coming apart after a few uses. {recommendation}",
+      "The quality is disappointing for the price. {recommendation}",
+      "The color faded after washing. {recommendation}",
+      "Overall, this purchase did not meet my expectations. {recommendation}",
+      "I regret buying this clothing item. {recommendation}",
+      "I wouldn't recommend this product. {recommendation}"
+    ],
+    "Neutral": [
+      "The clothing item is average. {recommendation}",
+      "The {aspect} is acceptable. {recommendation}",
+      "The material is decent for the price. {recommendation}",
+      "The fit is satisfactory but not perfect. {recommendation}",
+      "Nothing particularly impressive about this product. {recommendation}",
+      "The overall quality is acceptable. {recommendation}",
+      "It works well for everyday use. {recommendation}",
+      "The design is simple and practical. {recommendation}",
+      "Overall, it was an average purchase. {recommendation}",
+      "It met my basic expectations. {recommendation}"
+    ]
+  }
+}  

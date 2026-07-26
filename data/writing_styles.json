@@ -1,0 +1,33 @@
+{
+  "formal": [
+    "In my opinion,",
+    "After careful consideration,",
+    "Based on my experience,",
+    "Overall,",
+    "From my perspective,"
+  ],
+
+  "casual": [
+    "Honestly,",
+    "To be honest,",
+    "Well,",
+    "I gotta say,",
+    "Seriously,"
+  ],
+
+  "enthusiastic": [
+    "Wow!",
+    "Absolutely amazing!",
+    "I absolutely loved it!",
+    "Fantastic!",
+    "Couldn't be happier!"
+  ],
+
+  "critical": [
+    "Unfortunately,",
+    "Sadly,",
+    "To my disappointment,",
+    "Honestly disappointed,",
+    "Not impressed."
+  ]
+}
