@@ -6,7 +6,7 @@ A high-quality synthetic dataset containing **45,647 customer reviews** across *
 
 ## Overview
 
-This repository provides a realistic multi-domain review dataset enriched with sentiment labels and contextual metadata. Each review includes user information, review metadata, product details, ratings, emotions, recommendation scores, and company responses, making it suitable for a wide range of AI and NLP tasks.
+This repository provides a realistic multi-domain review dataset enriched with sentiment labels and contextual metadata. Each review includes user information, review metadata, product details, ratings, emotions, recommendation scores, and company responses, making it suitable for the  wide range of AI and NLP tasks.
 
 The dataset was created to help students, researchers, and developers build and evaluate sentiment analysis models without relying on proprietary customer data.
 
