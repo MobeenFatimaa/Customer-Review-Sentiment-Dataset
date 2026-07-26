@@ -1,4 +1,4 @@
-# AI Review Sentiment Dataset (45K+ Multi-Domain Reviews)
+# Review Sentiment Dataset (45K+ Multi-Domain Reviews)
 
 A high-quality synthetic dataset containing **45,647 customer reviews** across **15 product and service domains**. The dataset is designed for **Sentiment Analysis**, **Natural Language Processing (NLP)**, **Text Classification**, **Machine Learning**, and **Deep Learning** applications.
 
